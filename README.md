@@ -25,3 +25,10 @@
 
 
  ##### Run  လိုက်တာနဲ့  Faucet ယူ မယ့် wallet အရေ အတွက် ထည့် ပါ ။  run ပြီး ပါ က faucet ယူခဲ့ သော wallets များကို pkey.txt မှာ save သွားပါမယ်။ လောလောဆယ် faucet ယူတာ run ထားပါ ။ faucet တွေ wallet တခု ထဲ ပြန် စု တဲ့ script ထပ် တင် ပေးပါ့ မယ် ဆျာ တို့ ။
+
+- WALLET တခု ထဲ မှာပြန် စု ရန် လက်ခံမယ့် ADDRESS ကို  receiver_address.txt မှာထည့် ပြီး gather.py run ပါ ။
+
+   python gather.py
+
+
+ 
