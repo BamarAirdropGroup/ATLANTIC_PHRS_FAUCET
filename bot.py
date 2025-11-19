@@ -87,8 +87,8 @@ class FaroSwapFaucet:
 
         try:
             n = int(input(Fore.CYAN + "How many wallets? → "))
-            if n < 1 or n > 200:
-                print(Fore.RED + "[!] 1–200 only")
+            if n < 1 or n > 20000:
+                print(Fore.RED + "[!] 1–20000 only")
                 return
         except:
             return
